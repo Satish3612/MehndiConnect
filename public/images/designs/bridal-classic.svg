@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="800" viewBox="0 0 1000 800" fill="none">
+  <rect width="1000" height="800" fill="#E8D6C0"/>
+  <path d="M0 0h1000v800H0z" fill="url(#a)"/>
+  <path d="M0 690 330 360l190 180 180-200 300 285v175H0z" fill="#FBF3E7" opacity=".66"/>
+  <g stroke="#596745" stroke-width="3" opacity=".86">
+    <circle cx="555" cy="385" r="198"/><circle cx="555" cy="385" r="177"/><circle cx="555" cy="385" r="147"/><circle cx="555" cy="385" r="121"/>
+    <path d="M555 187c18 40 52 58 52 88 0 29-23 52-52 52s-52-23-52-52c0-30 34-48 52-88Z"/>
+    <path d="M753 385c-40 18-58 52-88 52-29 0-52-23-52-52s23-52 52-52c30 0 48 34 88 52Z"/>
+    <path d="M555 583c-18-40-52-58-52-88 0-29 23-52 52-52s52 23 52 52c0 30-34 48-52 88Z"/>
+    <path d="M357 385c40-18 58-52 88-52 29 0 52 23 52 52s-23 52-52 52c-30 0-48-34-88-52Z"/>
+    <path d="m415 245 58 61m222-61-58 61m58 219-58-61m-222 61 58-61M555 264v242m-121-121h242"/>
+    <path d="M415 385c40-28 79-28 119 0-40 28-79 28-119 0Zm160-140c28 40 28 79 0 119-28-40-28-79 0-119Zm160 140c-40 28-79 28-119 0 40-28 79-28 119 0Zm-160 140c-28-40-28-79 0-119 28 40 28 79 0 119Z"/>
+    <circle cx="555" cy="385" r="25"/><circle cx="555" cy="385" r="8" fill="#8A4850"/>
+  </g>
+  <g fill="#9A4B52"><circle cx="555" cy="218" r="5"/><circle cx="722" cy="385" r="5"/><circle cx="555" cy="552" r="5"/><circle cx="388" cy="385" r="5"/></g>
+  <defs><linearGradient id="a" x1="95" y1="64" x2="892" y2="738" gradientUnits="userSpaceOnUse"><stop stop-color="#F6EADD"/><stop offset="1" stop-color="#D8C7AD"/></linearGradient></defs>
+</svg>

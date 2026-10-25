@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="800" viewBox="0 0 1000 800" fill="none">
+  <rect width="1000" height="800" fill="#D9D6C6"/>
+  <path d="M0 0h1000v800H0z" fill="url(#a)"/>
+  <g stroke="#43583F" stroke-width="2.5">
+    <path d="m175 0 650 800M500 0l-500 615M825 0 175 800m825-615L500 800M0 185l650 615M0 520 425 0M0 700 1000 100m-1000 500L1000 200"/>
+    <path d="M500 83c34 45 34 89 0 134-34-45-34-89 0-134Zm0 500c34-45 34-89 0-134-34 45-34 89 0 134ZM250 400c45-34 89-34 134 0-45 34-89 34-134 0Zm500 0c-45-34-89-34-134 0 45 34 89 34 134 0Z"/>
+    <circle cx="500" cy="400" r="170"/><circle cx="500" cy="400" r="148"/><circle cx="500" cy="400" r="95"/>
+    <path d="M500 230c20 30 20 57 0 82-20-25-20-52 0-82Zm170 170c-30 20-57 20-82 0 25-20 52-20 82 0ZM500 570c-20-30-20-57 0-82 20 25 20 52 0 82ZM330 400c30-20 57-20 82 0-25 20-52 20-82 0Z"/>
+    <path d="M370 270c47 5 77 28 91 68-40-14-63-44-68-91Zm260 0c-5 47-28 77-68 91 14-40 44-63 91-68ZM630 530c-47-5-77-28-91-68 40 14 63 44 68 91Zm-260 0c5-47 28-77 68-91-14 40-44 63-91 68Z"/>
+  </g>
+  <circle cx="500" cy="400" r="27" fill="#9A4B52"/><circle cx="500" cy="400" r="12" fill="#F4EBDD"/>
+  <g fill="#9A4B52"><circle cx="500" cy="230" r="6"/><circle cx="670" cy="400" r="6"/><circle cx="500" cy="570" r="6"/><circle cx="330" cy="400" r="6"/></g>
+  <defs><linearGradient id="a" x1="0" y1="0" x2="1000" y2="800" gradientUnits="userSpaceOnUse"><stop stop-color="#F3EBDD"/><stop offset="1" stop-color="#D6D3C0"/></linearGradient></defs>
+</svg>

@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  background: #faf7f0;
+  color: #242c24;
+  font-family: "Noto Sans Devanagari", "Kohinoor Devanagari", "Nirmala UI",
+    Arial, sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  background:
+    radial-gradient(ellipse at 10% 3%, rgb(235 221 205 / 24%), transparent 28rem),
+    #faf7f0;
+}
+
+button,
+a {
+  font: inherit;
+}
+
+::selection {
+  background: #e8c9cc;
+  color: #3a1e27;
+}
+
+.focus-ring:focus-visible {
+  outline: 3px solid #91434f;
+  outline-offset: 4px;
+}
+
+.display-type {
+  font-family: "Noto Serif Devanagari", "Kohinoor Devanagari", "Nirmala UI",
+    Georgia, serif;
+  font-weight: 600;
+  letter-spacing: -0.035em;
+}
+
+.hero-panel {
+  isolation: isolate;
+  background:
+    radial-gradient(ellipse at 78% 44%, rgb(228 198 184 / 64%), transparent 38%),
+    radial-gradient(ellipse at 83% 91%, rgb(219 228 206 / 90%), transparent 35%),
+    linear-gradient(130deg, #f3e9dc 2%, #f8eee6 53%, #ece9dc 100%);
+}
+
+.hero-ornament {
+  color: #53694a;
+  filter: drop-shadow(0 18px 25px rgb(52 62 43 / 12%));
+}
+
+.hero-stamp {
+  box-shadow: 0 16px 40px rgb(63 42 37 / 14%);
+}
+
+.service-image {
+  background: #ede4d8;
+}
+
+.service-card {
+  box-shadow: 0 8px 28px rgb(56 43 34 / 5%);
+}
+
+.service-card:hover {
+  box-shadow: 0 18px 42px rgb(56 43 34 / 12%);
+}
+
+.service-state {
+  background:
+    radial-gradient(circle at 92% 12%, rgb(230 205 198 / 50%), transparent 12rem),
+    #fffdf9;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
+}

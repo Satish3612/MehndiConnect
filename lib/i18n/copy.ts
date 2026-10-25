@@ -1,0 +1,42 @@
+export const copy = {
+  brand: "मेहंदी कनेक्ट",
+  eyebrow: "आपकी पसंद, आपकी मेहंदी",
+  title: "मेहंदी की हर रेखा में, आपकी एक कहानी",
+  introduction:
+    "ख़ास मौक़ों के लिए हाथों से रची कलाकारी। अपनी पसंद का डिज़ाइन और सेवा चुनें।",
+  sampleDisclaimer:
+    "कीमतें, पैकेज और डिज़ाइन अभी उदाहरण के लिए हैं; इन्हें व्यवसाय की पुष्टि के बाद बदलें।",
+  designPlaceholder: "डिज़ाइन का नमूना",
+  categoriesTitle: "श्रेणी चुनें",
+  servicesTitle: "सेवाएँ",
+  selectService: "यह सेवा चुनें",
+  selectedService: "चुनी गई सेवा",
+  selectionHint: "आपकी पसंद अगली प्रक्रिया के लिए सहेजी गई है।",
+  noServices: "इस श्रेणी में अभी कोई सेवा उपलब्ध नहीं है।",
+  noCatalogServices: "अभी कोई सेवा उपलब्ध नहीं है। कृपया बाद में देखें।",
+  loading: "आपके लिए ख़ास सेवाएँ लाई जा रही हैं…",
+  error: "सेवाएँ अभी नहीं दिख पा रही हैं। कृपया थोड़ी देर बाद फिर कोशिश करें।",
+  selectionSaveError:
+    "आपकी पसंद इस ब्राउज़र में सहेजी नहीं जा सकी। कृपया फिर से कोशिश करें।",
+  sampleLabel: "उदाहरण मूल्य",
+  priceLabel: "कीमत",
+  durationLabel: "अनुमानित समय",
+  packageLabel: "पैकेज",
+  collectionLabel: "हाथों से रची, दिल से चुनी",
+  heroNote: "हर ख़ास अवसर के लिए, ख़ास कारीगरी",
+  collectionNote: "पारंपरिक बारीकी, आज के अंदाज़ के साथ",
+  selectedLabel: "आपकी पसंद",
+  serviceCount: "सेवाएँ",
+  categoryDescriptions: {
+    bridal: "शादी के दिन के लिए बारीक, पूरी सजावट",
+    engagement: "सगाई और ख़ास पलों की नाज़ुक कलाकारी",
+    simple: "रोज़मर्रा और छोटे अवसरों के लिए हल्के डिज़ाइन",
+  },
+  minutes: "मिनट",
+  hours: "घंटे",
+  categories: {
+    bridal: "Bridal",
+    engagement: "Engagement",
+    simple: "Simple",
+  },
+} as const;
